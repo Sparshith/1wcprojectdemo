@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
-subtitle = ""
+title = "Case Studies"
+subtitle = "Connectivity projects around the world"
 
 # Order that this section will appear in.
 weight = 50
@@ -28,17 +28,34 @@ filter_default = 0
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#  
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = ".demo"
+
+[[filter]]
+    name = "All"
+    tag = "*"
+
+[[filter]]
+    name = "North America"
+    tag = ".north-america"
+
+[[filter]]
+    name = "South America"
+    tag = ".south-america"
+
+[[filter]]
+    name = "Europe"
+    tag = ".europe"
+
+[[filter]]
+    name = "Africa"
+    tag = ".africa"
+    
+[[filter]]
+    name = "Asia"
+    tag = ".asia"
+
+[[filter]]
+    name = "Oceania"
+    tag = ".oceania"
 
 +++
 
