@@ -13,15 +13,15 @@ image_preview = "airjaldi.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
-tags = ["Asia", "TV White Spaces"]
+tags = ["Asia"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # Links (optional).
 
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_video = "https://www.youtube.com/watch?v=WNLhtnIMvoA"
+url_pdf = "#"
+url_video = "#"
 url_poster = "#"
 
 # Does the project detail page use math formatting?
@@ -48,7 +48,7 @@ RedSeer’s report showed that half of the 500 million Indian Internet users had
  
  In June 2016, the Department of Telecom (DoT) decided not to allocate the 470-582 megahertz (MHz) spectrum band for commercial deployment of TVWS technology. Since the DoT did not delicense the spectrum band and will decide on its pricing in the future, however, there might be an opportunity for companies to purchase it and utilize TV white spaces technology.
 
-| India | National | Descriptive | Information
+India | National | Descriptive | Information 
 : ---  | --- : | : ---  |  --- :
 Population (UN, 2015)  |  1,282,390,303 |   Fixed broadband subscriptions (%) (ITU, 2016) |   1.44
 Population density (people per square kilometer) (UN, 2015) |  390.11  |  Mobile cellular subscriptions (%) (ITU, 2016) |   86.95
