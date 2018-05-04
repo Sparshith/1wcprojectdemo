@@ -13,7 +13,7 @@ image_preview = "airjaldi.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
-tags = ["Asia"]
+tags = ["Asia", "TV White Spaces", "Commercial Deployment"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -48,18 +48,10 @@ RedSeer’s report showed that half of the 500 million Indian Internet users had
  
  In June 2016, the Department of Telecom (DoT) decided not to allocate the 470-582 megahertz (MHz) spectrum band for commercial deployment of TVWS technology. Since the DoT did not delicense the spectrum band and will decide on its pricing in the future, however, there might be an opportunity for companies to purchase it and utilize TV white spaces technology.
 
-India | National | Descriptive | Information 
-: ---  | --- : | : ---  |  --- :
-Population (UN, 2015)  |  1,282,390,303 |   Fixed broadband subscriptions (%) (ITU, 2016) |   1.44
-Population density (people per square kilometer) (UN, 2015) |  390.11  |  Mobile cellular subscriptions (%) (ITU, 2016) |   86.95
-Median household income (Gallup, 2006-2012)   | US$ 3,168  |  Individuals using the Internet (%) (ITU, 2016)  | 29.5
-Education (mean years of schooling) (UNDP, 2013)   | Male: 5.6 Female: 3.2   | Individuals using the Internet by gender (%) (ITU, 2016)   | N/A
-
 ## PROJECT DESCRIPTION
 With only 26 percent of India’s population connected to the Internet, the country has become a major target for technological development. Microsoft has partnered with the Government of India and local service providers to increase access across the country. AirJaldi is one of these providers, having launched their partnered network-building project in the Amravati District of Maharashtra state in 2015. Harisal, a tribal village bordering a tiger preserve, was chosen to be India’s “first digital village.”
+
 The project has three main objectives. First, the village was selected for its potential for social development: with the highest child mortality rate in the state, low literacy and income levels, and intermittent access to basic utilities such as electricity, Harisal had a lot to gain from connectivity (the initiative also set out to explore how a village is affected when digital services become available). Second, the Harisal project served as an experiment for the implementation of TVWS. In India, spectrum for TVWS deployments is only available for educational and research purposes, and this project took advantage of the opportunity to test deployment and maintenance. The third objective was to build a rural network with this technology and others, with Harisal serving as the anchor for a surrounding network of dozens of villages.
-
-
 
 ## PROGRESS AND RESULTS
 The project in Harisal and the secondary network around it has surpassed initial goals. Although the goal was to connect 50 neighboring villages after Harisal, the project has now connected 80. The Harisal project also won recognition for its innovative implementation of digital service in rural areas. In addition to public hotspots, three schools, four banks, and a hospital have been connected.
