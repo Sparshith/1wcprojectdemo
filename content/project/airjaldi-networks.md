@@ -59,6 +59,8 @@ Education (mean years of schooling) (UNDP, 2013)   | Male: 5.6 Female: 3.2   | I
 With only 26 percent of India’s population connected to the Internet, the country has become a major target for technological development. Microsoft has partnered with the Government of India and local service providers to increase access across the country. AirJaldi is one of these providers, having launched their partnered network-building project in the Amravati District of Maharashtra state in 2015. Harisal, a tribal village bordering a tiger preserve, was chosen to be India’s “first digital village.”
 The project has three main objectives. First, the village was selected for its potential for social development: with the highest child mortality rate in the state, low literacy and income levels, and intermittent access to basic utilities such as electricity, Harisal had a lot to gain from connectivity (the initiative also set out to explore how a village is affected when digital services become available). Second, the Harisal project served as an experiment for the implementation of TVWS. In India, spectrum for TVWS deployments is only available for educational and research purposes, and this project took advantage of the opportunity to test deployment and maintenance. The third objective was to build a rural network with this technology and others, with Harisal serving as the anchor for a surrounding network of dozens of villages.
 
+
+
 ## PROGRESS AND RESULTS
 The project in Harisal and the secondary network around it has surpassed initial goals. Although the goal was to connect 50 neighboring villages after Harisal, the project has now connected 80. The Harisal project also won recognition for its innovative implementation of digital service in rural areas. In addition to public hotspots, three schools, four banks, and a hospital have been connected.
 
@@ -67,7 +69,7 @@ There are only three medical doctors in the village and no specialists. With Int
 
 The large swaths of tiger preserves bordering the village have benefited from connectivity. Cameras with a live streaming feed have been set up near watering holes, which greatly facilitates data collection about the population size of these endangered animals.
 
-CHALLENGES
+## CHALLENGES
 **Electricity** – The instability of the power grid means that the area has uneven access to electricity. With the possibility of only a few hours of power available a day, AirJaldi has had to incorporate alternate power sources into their Internet network, such as solar.
 
 **Over-reporting of connectivity** – In general, governments tend to over-report connectivity in order to downplay the severity of digital divides. Far less than half of India has access to the Internet, but not all of these areas are completely un-served; under-served areas of India often have non-functional network infrastructure. AirJaldi came to develop certain rural villages that were reported to have workable fiber networks, but found unstable, non-working lines.
@@ -82,10 +84,11 @@ CHALLENGES
 **Persistence and purpose should precede profit-making** – AirJaldi asserts that any ISP working on rural connectivity needs to have a larger purpose than the economic stability of its business. Rural ISPs must be prepared for dips in profit and periods of debt; however, with persistence and clear social purpose, profitability is possible.
 
 ## SOURCES
-Ginguld, M. (2017, December 20) Personal Interview.
+Ginguld, M. (2017, December 20) Personal Interview
+
 Project website: https://airjaldi.com/networks/harisal-network/
 
-==website: airjaldi.com==
+
 
 
 
