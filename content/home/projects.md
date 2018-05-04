@@ -35,27 +35,27 @@ filter_default = 0
 
 [[filter]]
     name = "North America"
-    tag = ".north-america"
+    tag = ".North-america"
 
 [[filter]]
     name = "South America"
-    tag = ".south-america"
+    tag = ".South-america"
 
 [[filter]]
     name = "Europe"
-    tag = ".europe"
+    tag = ".Europe"
 
 [[filter]]
     name = "Africa"
-    tag = ".africa"
+    tag = ".Africa"
     
 [[filter]]
     name = "Asia"
-    tag = ".asia"
+    tag = ".Asia"
 
 [[filter]]
     name = "Oceania"
-    tag = ".oceania"
+    tag = ".Oceania"
 
 +++
 
