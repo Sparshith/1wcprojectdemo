@@ -236,12 +236,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://www.facebook.com/1worldconnected/"
 
   [[params.social]]
     icon = "youtube"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "https://www.youtube.com/channel/UC1Quq7o7g6k84CIXNmfn6bA"
+
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/1worldconnected"
 
 
 # Navigation Links
