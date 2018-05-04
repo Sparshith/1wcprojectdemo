@@ -9,7 +9,7 @@ title = "Connect with Axiom"
 summary = "A rural ISP providing connectivity using TV White Spaces in rural Maine."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "axiom.png"
+image_preview = "axiom.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
