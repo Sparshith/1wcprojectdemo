@@ -39,4 +39,4 @@ We will publish not only case studies that show success, but also highlight the 
 
 ### Supporters
 
-We accept financial contributions from all interested parties to this endeavor, including individual donations, corporate sponsorship and grants. The three-year project is presently supported by American Tower, AT&T, Cellular Operators Association of India, Comcast, Disney, Facebook, Intel, ICANN, Internet Society, ITI, Microsoft, and Verizon. We partner with IEEE’s Internet Inclusion Initiative, World Economic Forum’s Internet for All, USAID, and other such organizations, to advance common aims.
+We accept financial contributions from all interested parties to this endeavor, including individual donations, corporate sponsorship and grants. The three-year project is presently supported by American Tower, AT&T, Cellular Operators Association of India, Comcast, Disney, Facebook, Intel, ICANN, Internet Society, ITI, Microsoft, and Verizon. We partner with IEEE’s Internet Inclusion Initiative, World Economic Forum’s Internet for All, USAID, and other such organizations, to advance common aims. <!--more-->
