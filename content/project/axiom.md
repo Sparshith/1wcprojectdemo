@@ -6,7 +6,7 @@ date = "2018-04-25"
 title = "Connect with Axiom"
 
 # Project summary to display on homepage.
-summary = "A rural ISP providing connectivity using TV White Spaces in rural Maine."
+summary = "A rural ISP providing connectivity using TV White Spaces, as well as digital literacy training, in rural Maine."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "axiom.png"
