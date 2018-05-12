@@ -13,7 +13,7 @@ image_preview = "axiom.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
-tags = ["North America", "TV White Spaces", "Commercial Deployment", "Digital Skills Training"]
+tags = ["North-America", "TV White Spaces", "Commercial Deployment", "Digital Skills Training"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -35,7 +35,7 @@ filter_default = 0
 
 [[filter]]
     name = "North America"
-    tag = ".North America"
+    tag = ".North-America"
 
 [[filter]]
     name = "South America"
