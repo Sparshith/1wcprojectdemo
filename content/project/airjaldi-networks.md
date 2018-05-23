@@ -53,7 +53,12 @@ With only 26 percent of India’s population connected to the Internet, the coun
 
 The project has three main objectives. First, the village was selected for its potential for social development: with the highest child mortality rate in the state, low literacy and income levels, and intermittent access to basic utilities such as electricity, Harisal had a lot to gain from connectivity (the initiative also set out to explore how a village is affected when digital services become available). Second, the Harisal project served as an experiment for the implementation of TVWS. In India, spectrum for TVWS deployments is only available for educational and research purposes, and this project took advantage of the opportunity to test deployment and maintenance. The third objective was to build a rural network with this technology and others, with Harisal serving as the anchor for a surrounding network of dozens of villages.
 
-| Population (UN, 2015) | 1,282,390,303 | Fixed broadband subscriptions (%) (ITU, 2016) | 1.44
+**India**| | |
+:-----|-----:|:-----|-----:
+Population (UN, 2015)|1,282,390,303|Fixed broadband subscriptions (%) (ITU, 2016)|1.44
+Population density (UN, 2015)|390.11|Mobile cellular subscriptions (%) (ITU, 2016)|86.95
+Median household income (Gallup, 2006-2012)|US$ 3,168|Individuals using the Internet (%) (ITU, 2016)|29.5
+Education (mean years of schooling) (UNDP, 2013)|Male: 5.6; Female: 3.2|Individuals using the Internet by gender (%) (ITU, 2016)|N/A
 
 ## PROGRESS AND RESULTS
 The project in Harisal and the secondary network around it has surpassed initial goals. Although the goal was to connect 50 neighboring villages after Harisal, the project has now connected 80. The Harisal project also won recognition for its innovative implementation of digital service in rural areas. In addition to public hotspots, three schools, four banks, and a hospital have been connected.
