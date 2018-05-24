@@ -32,41 +32,23 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "atcbethiopia.png"
-caption = "Adaptive Technology Center for the Blind, Addis Ababa. Photo credit:
-UNESCO"
+caption = "Adaptive Technology Center for the Blind, Addis Ababa. Photo credit:UNESCO"
 
 +++
 Executive Summary
 ==================
 
-The International Telecommunication Union (ITU) and the United Nations
-Educational, Scientific and Cultural Organization (UNESCO) launched the
-Adaptive Technology Center for the Blind (ATCB) in 2003 in Addis Ababa,
-Ethiopia to provide access to information and communication technologies
-for the blind and visually impaired people. The ITU and ATCB provided
-the training equipment and software that produces Braille by
-computerized embossers to its users for the first two years. The center
-is now a non-profit resource and information technology center open to
-all visually impaired Ethiopians.
+The International Telecommunication Union (ITU) and the United Nations Educational, Scientific and Cultural Organization (UNESCO) launched the Adaptive Technology Center for the Blind (ATCB) in 2003 in Addis Ababa, Ethiopia to provide access to information and communication technologies for the blind and visually impaired people. The ITU and ATCB provided the training equipment and software that produces Braille by computerized embossers to its users for the first two years. The center
+is now a non-profit resource and information technology center open to all visually impaired Ethiopians.
 
 *Keywords: accessibility, skills training, Ethiopia*
 
 Context
 =======
 
-Ethiopia is one of the world's untouched telecom markets, with complete
-state control over Internet access. Ethio Telecom is the sole provider
-of Internet access in the country. Mobile phone penetration is close to
-40 percent, well below the continent-wide average of 75 percent. Less
-than 2 percent of the Ethiopians have access to fixed line internet
-connections.
+Ethiopia is one of the world's untouched telecom markets, with complete state control over Internet access. Ethio Telecom is the sole provider of Internet access in the country. Mobile phone penetration is close to 40 percent, well below the continent-wide average of 75 percent. Less than 2 percent of the Ethiopians have access to fixed line internet connections.
 
-According to the United States-based International Eye Foundation (IEF),
-there are about 45 million blind people in the world, the vast majority
-of them living in Africa. In Ethiopia, the latest census indicates that
-there are well over 500,000 blind people in the country. In June 2000,
-ATCB was established to bring information accessibility to the blind and
-visually impaired people in Ethiopia.
+According to the United States-based International Eye Foundation (IEF), there are about 45 million blind people in the world, the vast majority of them living in Africa. In Ethiopia, the latest census indicates that there are well over 500,000 blind people in the country. In June 2000, ATCB was established to bring information accessibility to the blind and visually impaired people in Ethiopia.
 
 +-----------------+-----------------+-----------------+-----------------+
 | Ethiopia        |
@@ -102,32 +84,14 @@ visually impaired people in Ethiopia.
 Project Description
 ===================
 
-In 2003, UNESCO built partnership with ATCB to support their efforts
-with the blind and visually impaired in Ethiopia, and to draw attention
-to the blind-focused initiatives in Africa. The Adaptive Technology
-Center for the Blind set up the Pioneers Collegiate for the Blind, which
-trains blind and visually challenged users through vocational training
-in basic computer skills. In 2008, the Center received a license to
-operate as a Technical Vocational and Education Training (TVET)
-institute. Each year, a cohort of 20-30 students graduates from this
-institute.
+In 2003, UNESCO built partnership with ATCB to support their efforts with the blind and visually impaired in Ethiopia, and to draw attention to the blind-focused initiatives in Africa. The Adaptive Technology Center for the Blind set up the Pioneers Collegiate for the Blind, which trains blind and visually challenged users through vocational training in basic computer skills. In 2008, the Center received a license to operate as a Technical Vocational and Education Training (TVET) institute. Each year, a cohort of 20-30 students graduates from this institute.
 
-The Center also has a Braille Transcription Center that has converted
-over 2000 text books and other literature into both English and Amharic
-text. It is collaborating with the Global Digital Resource Libraries to
-make online information accessible to visually challenged individuals.
+The Center also has a Braille Transcription Center that has converted over 2000 text books and other literature into both English and Amharic text. It is collaborating with the Global Digital Resource Libraries to make online information accessible to visually challenged individuals.
 
-Additionally, the Adaptive Technology Center for the Blind also
-organizes workshops in collaboration with the International
-Telecommunications Union, UNESCO, and Internet Society to spread
-awareness and engage in local capacity building in assistive
+Additionally, the Adaptive Technology Center for the Blind also organizes workshops in collaboration with the International Telecommunications Union, UNESCO, and Internet Society to spread awareness and engage in local capacity building in assistive
 technologies.
 
-The Adaptive Technology Center for the Blind has also set up an Internet
-café at a central location in Addis Ababa, which has over 10 computers
-that are equipped with adaptive technologies and text-to-speech
-translation software that enables visually challenged users to utilize
-the Internet at their ease.
+The Adaptive Technology Center for the Blind has also set up an Internet café at a central location in Addis Ababa, which has over 10 computers that are equipped with adaptive technologies and text-to-speech translation software that enables visually challenged users to utilize the Internet at their ease.
 
 +-----------------+-----------------+-----------------+-----------------+
 | Project Details |
