@@ -279,7 +279,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Events/Media"
-  url = "#publications"
+  url = "#talks"
   weight = 5
 
 [[menu.main]]
