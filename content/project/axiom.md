@@ -35,7 +35,6 @@ image = "axiom.png"
 caption = "Communities served by Axiom. Photo credit: [Axiom](www.connectwithaxiom.com)"
 
 +++
-
 ## EXECUTIVE SUMMARY
 
 Axiom is a small ISP in rural Maine, United States, which serves around 1,200 customers. Axiom is a hybrid of for-profit and non-profit entities. The for-profit arm builds connectivity infrastructure and sells Internet services in rural, remote, and sparsely populated regions of Maine. The non-profit arm, Axiom Education and Training Center, provides mandatory but free digital literacy and inclusion training programs. Axiom leverages grants and subsidies, offers connectivity at affordable prices through innovative technologies, and ensures that users have the skills and knowledge to effectively use their connections to form sustainable networks in difficult geographic, social, and economic conditions.
@@ -48,6 +47,7 @@ Among these unconnected areas is rural Maine, where 20,000 households lack Inter
 
 
 ## PROJECT DESCRIPTION
+
 Axiom’s most recent initiative is a pilot project that serves 40 customers in Indian Township, a remote stretch of tribal land in Washington Country, Maine. This area was unserved by Internet service providers (ISPs) as it is sparsely populated by low-income residents and heavily forested.
 
 With a grant of US$ 72,000 from Microsoft’s Affordable Access Initiative, Axiom deployed TV white space (TVWS) technology in order to bring connectivity to the area. TVWS is a new and relatively inexpensive technology that does not require line-of-sight. Microsoft’s grant subsidized costs that profitability prospects would have made untenable.
