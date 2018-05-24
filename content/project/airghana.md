@@ -56,11 +56,11 @@ health program, and GirlsInTech educates girls about ICTs.
 
 Telecommunications is the main economic
 sector of Ghana, but costs remain a
-challenge for improving Internet connectivity. According to a *2012
-study by Research ICT Africa*, 60 percent of the respondents said the
+challenge for improving Internet connectivity. According to a [2012
+study by Research ICT Africa](https://researchictafrica.net/publications/Evidence_for_ICT_Policy_Action/Policy_Paper_4_-_Understanding_what_is_happening_in_ICT_in_Ghana.pdf), 60 percent of the respondents said the
 high cost of access prevented them from using the Internet. Broadband
 services are expensive for most Ghanaians in general, which affects
-usage rates, but according to *Abel Mavura from ActionAid Ghana*, women
+usage rates, but according to [Abel Mavura from ActionAid Ghana](http://www.actionaid.org/ghana/2015/11/ict-girls-and-women-empowerment), women
 from developing countries such as Ghana are further discriminated from
 accessing science, technology, engineering, and math (STEM) fields due
 to the lack of infrastructure and training, socio-economic constraints,
@@ -95,8 +95,8 @@ Africa ICT Right set up public ICT centers for the community as digital
 information hubs. This enables skill sharing among community members who
 can help each other build and develop their digital skills. Services are
 not free. The organizations charges a small fee to cover the basic costs
-of operating the centers. The cost to users is between 1 cedi (\$0.22)
-to 50 cedis (\$10.99) depending on the services used. They currently
+of operating the centers. The cost to users is between 1 cedi (US$ 0.22)
+to 50 cedis (US$ 10.99) depending on the services used. They currently
 operate five centers in communities in different regions of Ghana: three
 in the northern region, one in the western region, and one in the
 central region. A community member that has been hired and trained
