@@ -61,7 +61,6 @@ With only 26 percent of India’s population connected to the Internet, the coun
 
 The project has three main objectives. First, the village was selected for its potential for social development: with the highest child mortality rate in the state, low literacy and income levels, and intermittent access to basic utilities such as electricity, Harisal had a lot to gain from connectivity (the initiative also set out to explore how a village is affected when digital services become available). Second, the Harisal project served as an experiment for the implementation of TVWS. In India, spectrum for TVWS deployments is only available for educational and research purposes, and this project took advantage of the opportunity to test deployment and maintenance. The third objective was to build a rural network with this technology and others, with Harisal serving as the anchor for a surrounding network of dozens of villages.
 
-
 ## Project details
 |                        |                                                                                 |                            |                                                                                                      |
 |------------------------|---------------------------------------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------|
