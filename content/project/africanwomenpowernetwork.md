@@ -79,6 +79,14 @@ collaboration with the National Information Technology Development
 Agency -- launched an e-agriculture web portal for stakeholders and
 farmers to connect and exchange ideas to bolster the agriculture sector.
 
+## Nigeria
+|                                                    |                     |                                                            |     |
+|----------------------------------------------------|---------------------|------------------------------------------------------------|-----|
+|**Population (UN, 2015)**                           |183,523,432          |**Fixed broadband subscriptions (%) (ITU, 2016)**           | 0.01|
+|**Population density (per sq. km) (UN, 2015)**|198.67               |**Mobile cellular subscriptions (%) (ITU, 2016)**           |81.82|
+|**Median household income (Gallup, 2006-2012)**     |US$ 2,667            |**Individuals using the Internet (%) (ITU, 2016)**          |25.70|
+|**Education (mean years of schooling) (UNDP, 2013)**|Male: 6.3 Female: 4.2|**Individuals using the Internet by gender (%) (ITU, 2016)**|N/A  |
+
 ## PROJECT DESCRIPTION
 
 The African Women Power Network focuses on three main initiatives. It
@@ -109,6 +117,14 @@ financial future for their entrepreneurial and technical agricultural
 education in the region. AWP's emphasis on teaching modern agriculture
 alongside business practices has the long-range aim of transforming
 farming from a poverty-level occupation to a successful livelihood.
+
+## Project details
+|                        |                         |                            |                                                                           |
+|------------------------|-------------------------|----------------------------|---------------------------------------------------------------------------|
+|**Technology**          |Mobile-based training    |**Training**                |3-day training                                                             |
+|**Year program started**|2014                     |**Cost to users**           |Phase 1: Free Phase 2: Percent of their yearly crop yield                  |
+|**Geography**           |Rural, Taraba state      |**Total cost of program**   |Fixed cost: US$ 15,000 Operational cost: 1 local farmer instructor/liaison.|
+|**User profile**        |500 women - late 30s to 60s|**Associated organizations**|Farmfields Agro-Allied Services, Oxfam, The Planet Earth Institute         |
 
 ## PROGRESS AND RESULTS
 
