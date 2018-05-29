@@ -36,6 +36,8 @@ caption = "An AirJaldi tower. Photo credit: [AirJaldi Networks](www.airjaldi.com
 
 +++
 
+{{% toc %}}
+
 ## EXECUTIVE SUMMARY
 
 AirJaldi is an Internet service provider (ISP) that designs, builds, and operates Internet networks in rural areas. Serving more than 230,000 subscribers across five states in India, they operate public hotspots with paid access as well as provide fixed wireless Internet to homes, businesses, medical centers, and schools. AirJaldi focuses on both social outcomes and profitability, and finds inventive and lucrative solutions to connect unserved, low-income areas at sustainable, inexpensive rates. The Harisal project in India served as an experiment for a TV white space (TVWS) deployment. Since the deployment in 2015, 80 surrounding villages have been connected in Amravati district in Harisal, Maharashtra, India using unlicensed spectrum and TV white spaces.
