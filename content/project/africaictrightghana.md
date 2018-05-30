@@ -82,6 +82,14 @@ Sector of Action on Awareness Center (NORSAAC), and The Ark Foundation
 Ghana, organized interventions like WomenOnline4Dev and Social Media for
 Change to train girls and women with ICT and social media capacity.
 
+## Ghana
+|                                                     |                     |                                                            |      |
+|-----------------------------------------------------|---------------------|------------------------------------------------------------|------|
+|**Population (UN, 2015)**                            |26,984,328           |**Fixed broadband subscriptions (%) (ITU, 2016)**           |  0.31|
+|**Population density (people per sq. km) (UN, 2015)**|113.13               |**Mobile cellular subscriptions (%) (ITU, 2016)**           |139.13|
+|**Median household income (Gallup, 2006-2012)**      |US$ 2,050            |**Individuals using the Internet (%) (ITU, 2016)**          | 34.70|
+|**Education (mean years of schooling) (UNDP, 2013)** |Male: 8.1 Female: 5.9|**Individuals using the Internet by gender (%) (ITU, 2016)**|N/A   |
+
 
 ## PROJECT DESCRIPTION
 
@@ -143,6 +151,14 @@ made its full rollout difficult. Girls In Tech serves 37 schools across
 two regions, and has educated more than 1,000 girls in ICT skills so
 far.
 
+## Project details
+|                        |                                                         |                            |                                                                                                         |
+|------------------------|---------------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------------------|
+|**Technology**          |Mobile based training                                    |**Training**                |Basic ICT training for students, teachers; app training for midwives                                     |
+|**Year program started**|2007                                                     |**Cost to users**           |US$ 0-10.99                                                                                              |
+|**Geography**           |Five regions in central, northern, and western Ghana     |**Total cost of program**   |Operational costs: US$ 36,000 for all programs                                                           |
+|**User profile**        |Rural communities; midwives and patients; female students|**Associated organizations**|Access 4 All Initiative, Close The Gap, Computer Reach, Google, United Way Ghana, Vodafone, Wango, WeTech|
+
 ## CHALLENGES
 
 **Regressive attitudes --** Existing attitudes about health, gender, and
@@ -161,7 +177,7 @@ resources are not available. This reduces the utility and trust in the
 service when it does not deliver on its professed plan of operations.
 
 
-## AXIOM’S SUGGESTIONS FOR FUTURE PROJECTS
+## AFRICA ICT RIGHT’S SUGGESTIONS FOR FUTURE PROJECTS
 **Stable funding is required to maintain programmatic interventions in
 the long term --** Demand is huge, but the resources are limited.
 Adoption can be a hurdle, but projects greatly benefit from stable
